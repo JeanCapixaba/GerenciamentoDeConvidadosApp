@@ -32,11 +32,16 @@ real ongoing project, the <b>GuestManagementApp</b> addresses subjects such as:
    <li>-RecyclerView, among other technologies..</li>
 </ul>
 The project was developed to acquire knowledge, that is, (all for didactic purposes).
-  
-</div>
+<br>
+<br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/110734564/249841498-bd084f08-ab7e-479d-ab56-0b135974ef5e.png">
 <img src="https://user-images.githubusercontent.com/110734564/249841503-77a480f8-cc3e-49c9-b3c3-bf98be1abd0c.png">
 <img src="https://user-images.githubusercontent.com/110734564/249841507-f5934ff3-fd71-4303-88eb-a20d3680ef41.png">
 <img src="https://user-images.githubusercontent.com/110734564/249841508-971556cb-3e3a-418a-a682-8fa76492ebd7.png">
+  
+</div>
+
+
 
